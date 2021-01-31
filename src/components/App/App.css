@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Chart {
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  height: 500px;
+  align-items: center;
+}
+
+.Form {
+  width: 200px;
+}
+
+.CustomTooltip {
+  padding: 5px;
+  background-color: #ffffff;
+}
